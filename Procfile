@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True --theme=dark Bitcoin Mining.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --theme=dark Mining.ipynb
